@@ -4,7 +4,6 @@ A modern, clean file format converter web application built with Node.js, Expres
 
 ## Features
 
-- 🎨 Modern, OpenAI-inspired design
 - 📁 Drag-and-drop file upload
 - 🔄 Support for 200+ file formats across 9 categories
 - ⚡ Real-time format detection
